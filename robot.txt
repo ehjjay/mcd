@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mcdonald-desserts-calorie-counter-ph.netlify.app/sitemap.xml
